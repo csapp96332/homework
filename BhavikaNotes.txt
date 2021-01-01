@@ -1,0 +1,2 @@
+-add my comments to css
+-consolidate the css for reusable classes
